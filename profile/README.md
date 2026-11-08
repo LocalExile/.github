@@ -1,6 +1,6 @@
 # LocalExile
 
-**A local, from-scratch server for the Path of Exile 3.29.3b client**, written in C# (.NET 10) and built by people and
+**A local, from-scratch server for the Path of Exile 3.29.3c client**, written in C# (.NET 10) and built by people and
 AI agents working together.
 You play on your own machine, against servers running on 127.0.0.1, with no internet connection to anything official.
 Think TrinityCore, AzerothCore or MaNGOS, for Path of Exile.
@@ -20,7 +20,7 @@ Showcase videos are in the [project README](https://github.com/LocalExile/LocalE
 
 ## Getting started
 
-You need your own installed copy of the 3.29.3b client.
+You need your own installed copy of the 3.29.3c client.
 The repository contains **no game files, keys or game data**: everything the servers need is generated locally from
 your client.
 
